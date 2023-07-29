@@ -1,0 +1,1 @@
+// to access the value of an object property, we use "dot notation". If we wanted to retrieve the value of 20, we need to use myObj.prop2.
